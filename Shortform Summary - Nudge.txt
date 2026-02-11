@@ -1,0 +1,613 @@
+Summary of Nudge
+Original book by Richard H. Thaler and Cass R. Sunstein
+Every day we face choices--what to order at a restaurant, what clothes to buy at a store, what show to stream after work. We make these choices without realizing how the way they're presented affects us. If grocery stores didn't stock candy at the register, would we eat less of it? If we had to "opt out" of being organ donors rather than "opt in," would the organ donor pool grow? In Nudge, Nobel Prize-winning economist Richard Thaler and legal scholar Cass Sunstein examine how the way choices are designed and structured can "nudge" us toward better decisions. In this guide, you'll learn why people make bad investment choices and how Thaler and Sunstein propose to revitalize the institution of marriage (by abolishing it). You'll also find commentary on the psychological research underlying Nudge's concepts as well as more recent data that sheds new light on Thaler and Sunstein's findings.
+This document is restricted to the personal use of the individual owner of the email account brandondavidcordoba@gmail.com (the "Subscriber"). No part of this document may be reproduced or distributed by any means other than for personal use of the Subscriber, nor shared with individuals other than the Subscriber, without prior written permission of Shortform Inc.
+
+Summary: Nudge
+1-Page Summary
+In Nudge, Richard H. Thaler and Cass R. Sunstein propose a series of reforms--"nudges"--that can help policymakers and other choice designers lead people to make better choices without restricting their freedom to choose. Thaler and Sunstein argue that no choice is ever neutral because the way a choice is presented, even if randomly, affects the way people engage with it--and so governments, private companies, and other entities should frame options in ways that can improve people's decisions. Thaler and Sunstein call their approach to designing choices "libertarian paternalism," which implies the freedom of libertarianism combined with the guidance of paternalism, but without the coercion often associated with paternalism.
+Major Concepts
+Common Biases
+Thaler and Sunstein argue that people have evolved to make snap decisions in a wide variety of areas in order to save time and mental energy--we're more likely to survive if we rely on rules of thumb (largely accurate guides based on experiences in similar situations) when deciding, for example, whether an animal is a threat (if we spend time carefully analyzing it, we might be eaten before reaching our conclusion). They note that while such rules of thumb--also called heuristics or biases--can be helpful, they can also mislead us into making poor decisions.
+(Shortform note: Thaler and Sunstein focus on how mental shortcuts can lead us into poor judgment calls, but other writers note that these kinds of gut reactions can be enormously beneficial. In Blink, Malcolm Gladwell argues that judgments made by our unconscious mind, based on limited information and made in fractions of a second, can often prove more accurate than well-thought-out analysis. He says that this is due to the fact that evolution has trained our minds to home in on the most important aspects of a situation and ignore all irrelevant facts. In contrast, our more rational brain tries to give equal consideration to all facts, which can distract us from the most important aspects of a decision.)
+Some of the biases that Thaler and Sunstein discuss, upon which many of their nudges rely, include:
+The anchoring bias--when we take a fact we know (or think we know) and adjust it to account for a fact we don't (Shortform note: Impulsive decision-making favors anchoring bias, so using a simple checklist can help you overcome it.) The availability bias--when we answer questions and make judgments on the basis of whether comparable examples come readily to mind rather than statistical probability (Shortform note: In business, you can avoid availability bias by creating diverse teams and seeking broad input.) The representativeness bias--when we categorize a phenomenon based on how similar it is to the stereotype of some category (Shortform note: To avoid representativeness bias, ask others to point out when you're relying on it.) The status quo bias--when we stick with our first choice or current situation for no good reason (Shortform note: Marketers often try to overcome consumers' status quo bias by framing the current status as a losing proposition.) The loss aversion bias--when we psychologically feel losses more strongly than gains, and therefore try to avoid them, even if it means we pass up opportunities in doing so or make risky decisions to avoid losses (Shortform note: Studies show that people feel losses more than gains by approximately two to one.)
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+2
+
+Summary: Nudge
+(Shortform note: The names of these biases were coined by various behavioral economists, including Thaler, Daniel Kahneman, Amos Tversky, William Samuelson, and Richard Zeckhauser. They're widely used today in the field of behavioral economics and are accepted as a basis for many psychology theories in both academic circles and on more informal platforms, like blogs.)
+Libertarian Paternalism
+Thaler and Sunstein developed "nudges" to work against these common biases. They call their method of nudges "libertarian paternalism," defined as a combination of libertarianism (prioritizing individual freedom regardless of ends) with paternalism (constraining choice to bring about better results).
+Libertarian paternalism seeks to preserve liberty--our freedom to do what we like, as long as it doesn't infringe on another--while using techniques suggested by behavioral economics and psychology to point us in the most beneficial direction.
+Choice Design
+According to Thaler and Sunstein, any choice, from the most mundane to the most momentous, has a certain design--that is, a method, order, or style of presentation that affects how we choose. Think about grocery stores. There's a reason food companies pay for prime shelf space: The more likely we are to see a product--and to easily reach it--the more likely we are to choose it.
+The authors spend the bulk of the book discussing how choice designers (policymakers or others who craft the presentation of options) can encourage people to make choices that bring about better outcomes.
+(Shortform note: The idea of choice design (termed "choice architecture" in the book) is now an accepted theory in the field of behavioral economics. Many in the field still frame choice design around the authors' tools to create nudges, but other psychologists emphasize different ways that choices can be purposefully structured, such as which choices and how many to present as well as how to describe those choices (in other words, which choices get recommendations or don't).)
+Nudges
+Nudges are subtle ways of designing options that push us toward the best choices--the choices we would make for ourselves if we weren't susceptible to cognitive bias, temptation, or social influence. An effective nudge takes advantage of our decision-making weaknesses to steer us toward beneficial--or, at least, less harmful--choices.
+Critiques of Libertarian Paternalism
+Thaler and Sunstein fashion libertarian paternalism as a happy medium between far-right libertarianism and far-left paternalism. As a result, libertarian paternalism has come in for critique from both directions.
+On the right, orthodox libertarians believe that libertarian paternalism is problematic because any kind of paternalism is problematic. For example, in his book The Manipulation of Choice: Ethics and Libertarian Paternalism, philosopher Mark D. White argues that presuming to know what the "right" choice is for anyone is a nonstarter; people are too different for there to be any baseline standard of what's "good" or "bad" for someone.
+On the left, critics have taken issue with the libertarian commitments of libertarian paternalism. For example, in a review of Sunstein's How Change Happens (2019) in The New Republic, Aaron Timms
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+3
+
+Summary: Nudge
+points out that "nudges" are inadequate to large-scale problems like climate change or income inequality that require societal, "paternalistic" regulation and reform.
+
+When to Nudge
+The authors don't advocate that policymakers provide nudges for every decision people make. Certain decisions could benefit from the guidance of nudges more so than others. These types of decisions include:
+Rare and Difficult Decisions
+Saving for retirement, buying a house, or choosing a college are each monumental decisions that come around once or rarely in a lifetime. Because we only have one or two cracks at each decision, we have no opportunity to learn if we make a mistake. Thus they're prime candidates for nudges.
+(Shortform note: A libertarian counterargument might be that, when it comes to major life decisions, no one, no matter how well intentioned, should be putting their finger on the scale. But, as Thaler and Sunstein note, all choices, whether purposely or not, already feature nudges, and so it's acceptable to curate that choice to improve outcomes.)
+Decisions With Delayed Outcomes
+For many decisions, the results of our choices are delayed or obscure. For example, someone can smoke for years and experience no negative effects--until the day he or she suffers a stroke. Nudges can help us make better decisions in situations like these, when the consequences of our actions aren't immediately apparent.
+(Shortform note: Thaler and Sunstein assume that, although the outcomes are delayed for the chooser, they're immediate--or at least known--to the choice designer. But there are any number of choices with delayed results whose ultimate outcomes are unknown to all. Take smartphone use, for example. Studies have shown that smartphones boost worker productivity--in addition to providing convenience-- yet the long-term health effects of consistent cell phone use remain unclear. In this circumstance, it might be perilous to nudge someone toward or away from using a cell phone.)
+Decisions Requiring Specialized Knowledge
+Many of our most important decisions--choosing a retirement or health care plan, for example--are presented to us using specialized terms that can confuse more than inform. Most of us--unless we work in finance--would be at a loss when faced with terms like "defined contribution" and "expense ratio." Given especially complex and unpredictable options, nudges can be vital.
+(Shortform note: Nudges can also be used to take advantage of the layperson. For example, a financial firm might nudge a naive client toward an investment that benefits the firm itself more than the investor.)
+How to Design Choices
+Thaler and Sunstein name six primary techniques a choice designer can use to structure a set of options in order to nudge people toward the best decision: offer defaults, draw a map, narrow the field, offer incentives, anticipate error, and emphasize outcomes. Of these, the authors spend the most time examining the first four--offer defaults, draw a map, narrow the field, and offer incentives. We'll look at
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+4
+
+Summary: Nudge
+each more closely below:
+Offer Defaults
+Thaler and Sunstein's most versatile nudge is providing a default--a choice that's automatically made if the chooser does nothing.
+The theory underlying this style of nudge is people's innate status quo bias, which says that when faced with a choice, many people will choose to either do nothing or stick with their initial choice, even if the new choices are superior to that initial choice.
+(Shortform note: Status quo bias is related to two other biases: inertia and loss aversion. Inertia describes the human tendency toward inaction. Loss aversion describes the tendency to psychologically feel losses more strongly than gains--studies show that people overvalue losses to gains by approximately 2:1, causing them, on occasion, to make riskier decisions to avoid loss. Loss aversion also encourages inertia, as people tend to stick to their original decisions rather than risk losses through change.)
+Thaler and Sunstein apply the default nudge to a number of areas, including investment choices.
+Defaults to Improve Investment Choices
+Thaler and Sunstein note that not long ago, the most common retirement plan offered by employers was a "defined benefit" plan--that is, one that made fixed payments to the beneficiary based on tenure and salary. Now, the most common type of retirement benefit is a "defined contribution" plan, in which employees make periodic contributions to a tax-sheltered investment account, on the assumption that they'll get back an increased return in later years.
+(Shortform note: In 2020, 64% of private industry workers had access to a defined contribution plan while only 15% had access to defined benefit plans. In 1990, those numbers were 34% and 35%, respectively, showing that slightly more people used defined benefit plans in the past.)
+This shift put a greater decision-making burden on workers. What level of risk am I willing to take, and how do I allocate my savings accordingly? Should I be investing in stocks or bonds or both? How often should I revisit my allocation of assets, and what real-world information should I be looking for to know when to change it?
+According to classically trained economists, we should have no trouble making the right investment choices. This is because, in most economic models of human behavior, people are thought of as eminently rational and self-interested actors who consistently make the best decisions for themselves--that is, people are homo economicus.
+The Critique of Homo Economicus
+Introduced by classical economists like Adam Smith and John Stuart Mill, the term homo economicus --"economic man"--conceives of people as predictably rational and self-interested, thus able to make the most beneficial economic choices for themselves. In most of the economics research of the last century, people are modeled in just this way: as able to maximize their own economic benefit.
+With the advent of behavioral psychology and economics, however, researchers have established that homo economicus is a fiction--that people's rationality is limited by many cognitive and contextual factors. (In fact, one study determined that real people who meet all the criteria of homo
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+5
+
+Summary: Nudge
+economicus might be diagnosed as psychopathic.) Thus, much of the economics literature rests on a flawed assumption and so can't be applied to real-world policy.
+Debates are ongoing about the accuracy of economic models that rely on homo economicus. Some commentators find that people do in fact act consistently and self-interestedly when faced with decisions while others maintain homo economicus is a chimera. Thaler and Sunstein, for their part, fall into the latter camp, arguing that "Econs"--or "economic people"--simply do not exist.
+If people indeed met the criteria of homo economicus, we would have no trouble (1) recognizing that stocks outperform bonds historically and (2) calculating our tolerance for risk based on the probability distribution of stock market returns. But, because we're human, the complexities and variability of definedcontribution plans cause us to make mistakes that end up--quite literally--costing us.
+One way to remedy these mistakes, Thaler and Sunstein argue, is better defaults, specifically "target maturity funds" that automatically reallocate their asset mix based on a worker's age. A target maturity fund will have a riskier asset allocation--more stocks, fewer bonds--when a worker is young and gradually recalibrate as the worker ages. By the time the worker retires, his portfolio will be heavily weighted toward fixed income assets like bonds. In other words, the "target maturity fund" will have done all the benefit maximizing on behalf of its investor.
+Nassim Nicholas Taleb explores the biases that make people bad at assessing risk in his book Fooled by Randomness, in which he argues that when we make decisions, we are typically guided by our primitive brain, which runs on emotion, likes simplicity, and has trouble understanding abstract concepts. When investing, we therefore do things like act impulsively, sell a stock too soon if it's doing poorly (even if its long-term prospects are good), and misjudge our abilities to play the stock market --in reality, it's luck that rules the market and determines most success, not our skill in choosing stocks.
+Thaler and Sunstein's solution of using targeted maturity funds to sidestep our natural impulses addresses Taleb's concerns, as it takes the decision-making process away from our primitive brain and relies instead on rational algorithms.
+Draw a Map
+A carefully engineered default combats the human tendency toward inertia and the status quo, but how can a choice designer help active choosers navigate complicated decisions?
+One way, according to Thaler and Sunstein, is to draw choosers a map that shows them where their options will bring them if they settle on one option or another--an outline that explicitly connects their choices to outcomes.
+To help choice designers effectively draw a map, Thaler and Sunstein advise that regulators mandate transparency programs whereby companies would be required to provide consumers with more--and more clearly organized--information about their products so that consumers can better compare choices and make the right decision.
+By presenting us with clearer information, a transparency program could help combat our tendency to use rules of thumb, and help us see more clearly the potential outcomes of our decisions.
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+6
+
+Summary: Nudge
+
+Are Transparency Programs Actually a Nudge?
+In some of Thaler and Sunstein's examples of transparency programs, they conflate disclosures made before a transaction with those made after it. For example, Thaler and Sunstein categorize both of the following as transparency:
+A cellular service enumerating all of its fees, including real-life examples, before a person purchases the service
+A cellular service providing its customers with a detailed report listing all the ways a person actually used the service and the fees that person incurred
+The problem with classifying the second example as a nudge is that it's helpful only after the person has already made a choice. In other words, under that scenario, we might make a terrible initial choice and receive our "nudge" only when we get the detailed report. The transparency, therefore, doesn't change our behavior during the decision-making process and therefore is not an actual nudge.
+Some critics of the book have pointed out as much, arguing that some of what Thaler and Sunstein press for is merely more transparency, which is hardly a revolutionary idea.
+Credit Cards
+Thaler and Sunstein note that transparency programs would be especially helpful for consumers with credit cards.
+Credit cards are a primary vehicle for US indebtedness, and Thaler and Sunstein produce an array of statistics that illustrate their centrality to Americans' personal finances, including the average number of credit cards per cardholder (8.5) and the average American's credit card debt ($8,000).
+(Shortform note: However, Americans' debt situation has changed significantly since Nudge's publication (and the corrective of the 2008 financial crisis). Whereas, in 2007, the credit card debt of the average American household was around $8,000, as of March 2021 it was $6,741.)
+Thaler and Sunstein's solution to the spendthrift effects of credit cards is a credit card-specific transparency program.
+They propose requiring credit card companies to send cardholders a detailed annual statement featuring not only the year's purchases but also the year's fees, interest charges, and penalties. This information would make the true cost of our credit card spending clearer to us and allow us to more easily compare cards.
+(Shortform note: The Credit Card Accountability Responsibility and Disclosure Act of 2009 (Credit CARD act) took steps toward making their idea a reality. The act outlawed many of credit card companies' most unsavory practices, including raising interest rates arbitrarily and giving cardholders insufficient time to pay their debts before incurring a penalty. It also nudged credit card companies to provide (1) simpler and more transparent agreements and (2) more information in their statements, including target dates for paying off the card if the cardholder only made minimum payments. In addition, most credit cards' online banking interfaces offer annual reports as well as real-time transaction information.)
+Narrow the Field
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+7
+
+Summary: Nudge
+Thaler and Sunstein are firm believers in people's right to choose (hence the libertarian half of libertarian paternalism). But they also recognize that too much choice can be overwhelming and counterproductive. (Shortform note: Researchers refer to this as choice overload or the Paradox of Choice: We want more options because we think it maximizes our chances of making the best choice, but having too many choices paralyzes us.)
+One way to narrow the field is simply to offer fewer options. However, since this limits choices, which Thaler and Sunstein oppose (as it contradicts libertarianism), they propose another way of narrowing the field of options: grouping and structuring the choice set to make it more manageable.
+For example, many retirement plans offer "tiered" investment choices. Rather than hand enrollees a voluminous and undifferentiated list of funds to choose from, retirement plans will offer, say, three different tiers, each corresponding to enrollees' level of investment interest and experience.
+(Shortform note: Because choices aren't limited in a tiered system, this type of nudge isn't foolproof: If an inexpert but risk-seeking enrollee wants to bet her retirement on the most aggressive and fee-laden actively managed fund, she's free to do so, even if it could result in catastrophe.)
+Offer Incentives
+Old-fashioned incentives, financial or otherwise, can nudge choosers toward better decisions. The key to a successful incentive, argue Thaler and Sunstein, is to make its benefits relevant and obvious to the person making the choice.
+Economists have long noted the power of incentives in driving human behavior--the concept underpins a capitalist society. Most economists agree that the primary incentives that drive behavior are self-interested incentives. As outlined in Charles Wheelan's Naked Economics, when people work to benefit themselves, they generally benefit others as well (as when they work to earn a salary, what they produce raises the standard of living for others).
+This is not always cut-and-dried, though--different people will be motivated by different wants, which makes an economist's job difficult when identifying incentives that will motivate large numbers of people. However, Thaler and Sunstein's proposals aim to appeal to the majority through simplicity: No one wants to pay more than they need to for an item or service, and the authors' nudges bank on that.
+Thaler and Sunstein suggest that an area ripe for incentives is environmental policy, in particular policies to reduce carbon emissions.
+Reducing Atmospheric Carbon Through Incentives
+Thaler and Sunstein are advocates of a "cap-and-trade" mechanism for reducing greenhouse gases.
+In a cap-and-trade system, the government sets a ceiling (the "cap") on a certain pollutant--say, carbon dioxide--and confers on industries and firms rights to pollute up to that amount. If a firm chooses to reduce its emissions below the cap, it can "trade" its excess cap space to other companies for cash. According to Thaler and Sunstein, a cap-and-trade system meets the principles of libertarian paternalism because it preserves choice while nudging firms, through economic incentives, to clean up their operations.
+(Shortform note: While a cap-and-trade system in operation might conform to the precepts of libertarian
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+8
+
+Summary: Nudge
+paternalism, its creation and implementation almost certainly don't. That is, there's no way to "nudge" Thaler and Sunstein's cap-and-trade model into existence--it has to be created by top-down government rulemaking (in other words, paternalism). Moreover, cap-and-trade, at least when instituted at the state level, has produced mixed results, leading many commentators to advocate broader and more explicitly paternalistic interventions.)
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+9
+
+Summary: Nudge
+Shortform Introduction
+In Nudge, Richard H. Thaler and Cass R. Sunstein propose a series of reforms--"nudges"--that can help policymakers and other choice designers lead people to make better choices without restricting their freedom to choose. Thaler and Sunstein's premise is that no choice is ever neutral because the way a choice is presented, even if randomly, affects the way people engage with it--and so governments, private companies, and other entities should frame options in ways that can improve people's decisions. Thaler and Sunstein call their approach to designing choices "libertarian paternalism," which implies the freedom of libertarianism combined with the good will of paternalism.
+In this guide, you'll learn how flesh-and-blood humans differ from the humans studied in economics, why people make bad investment choices, and how Thaler and Sunstein propose to revitalize the institution of marriage (by abolishing it). You'll also find commentary on the psychological research underlying Nudge's concepts as well as more recent data that sheds new light on Thaler and Sunstein's findings.
+About the Authors
+Richard H. Thaler
+Richard H. Thaler is the Charles R. Walgreen Distinguished Service Professor of Behavioral Science and Economics at the University of Chicago's Booth School of Business and a research associate at the National Bureau of Economic Research. Educated in economics at Case Western University and the University of Rochester, Thaler is a member of the National Academy of Science and has served as president of the American Economic Association. He won the Nobel Memorial Prize in Economic Sciences in 2017.
+Thaler followed Nudge (2008) with Misbehaving: The Making of Behavioral Economics (2015), part memoir and part critique of traditional economic theory.
+Connect With Thaler
+Faculty Page Personal Website Twitter
+Cass R. Sunstein
+Cass R. Sunstein is a professor at Harvard Law School and the founder and director of the Program on Behavioral Economics and Public Policy there. Sunstein holds a BA from Harvard College and a JD from Harvard Law School and has taught at the University of Chicago. He also clerked for Supreme Court Justice Thurgood Marshall.
+The author of hundreds of articles and dozens of books, Sunstein is known among legal scholars as an expert in constitutional law (he is the coauthor of a constitutional law casebook widely used in US law schools). He is also one of the most-cited legal scholars of all time for his work on constitutional, administrative, and environmental law.
+In early 2009, Sunstein was named President Obama's regulatory czar in the White House Office of Information and Regulatory Affairs (OIRA), which oversees all federal regulations. Because of Sunstein's support of libertarian paternalism, his appointment drew critics from both the left and the right.
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+10
+
+Summary: Nudge
+Since the publication of Nudge, Sunstein has continued to write books for popular audiences, among them Simpler: The Future of Government (2013) and The World According to Star Wars (2016), which made the New York Times bestseller list. In 2018, he received the Holberg Prize from the Norwegian government, an award often described as the Nobel Prize for the law and humanities.
+Connect With Sunstein
+Faculty Page Twitter
+
+The Book's Publication and Context
+Nudge was published by Yale University Press in 2008 and released in paperback by Penguin Random House in 2009.
+The Book's Context
+Thaler was heavily influenced by psychologists Daniel Kahneman (author of Thinking, Fast and Slow) and Amos Tversky, with whom he worked at Stanford University. Building off their work, Thaler applied the concepts of behavioral psychology to economics, resulting in a new field: behavioral economics.
+Nudge is grounded in this field. Its foundational premise is that people are not the eminently rational beings that appear in most economic theories--so-called homo economicus--but instead, are fallible and often irrational economic actors prone to all sorts of biases. Because people are naturally disposed to making mistakes, Thaler and Sunstein argue, they need to be "nudged" toward the most beneficial decisions.
+The book covers much of the same ground as other investigations of human behavior and cognitive biases. For example, Thaler and Sunstein describe two systems of brain functioning: the "Automatic System" and the "Reflective System." These two systems are similar to Kahneman's "System 1" (thinking fast) and "System 2" (thinking slow). The two systems theory also plays an integral role in Philip E. Tetlock and Dan Gardner's Superforecasting and Nassim Nicholas Taleb's The Black Swan.
+Nudge departs from other accounts of cognitive biases in its examples and proposed solutions. Thaler and Sunstein's object is to teach choice designers--public and private policy makers--how they can "nudge" people toward better choices.
+The Book's Impact
+Upon its release, Nudge was reviewed by a host of periodicals, including The New York Times, The Guardian, The New Yorker, and The Sunday Times (London). The Economist picked Nudge as one of the best books of 2008.
+As its authors intended, the book also had an influence on policymakers. As noted above, Sunstein was appointed by President Obama to apply libertarian paternalism approaches to US federal regulations. Additionally, the UK established a "Behavioral Insights Team"--colloquially known as the "Nudge Unit"--in 2010 to help British citizens make better choices through nudges.
+
+The Book's Strengths and Weaknesses Critical Reception
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+11
+
+Summary: Nudge
+Positive reviewers of Nudge lauded the authors' ability to make academic research accessible to a popular audience and largely agreed with the book's argument that, because people are liable to make decisions that don't serve their best interest, choice designers and policymakers should use non-coercive measures like nudges to improve people's choices.
+Reviewers also had critiques of the book. In The Guardian, policy analyst and Brookings Institution fellow Richard V. Reeves found some of the book's examples "trivial" as well as controversial. For example, he took issue with Thaler and Sunstein's suggestion that governments institute mandatory waiting periods before their citizens could get married (to help reduce divorce rates). For Reeves, a nudge like this brings libertarian paternalism closer to paternalism than libertarianism.
+In The New York Times, Harvard economics professor Benjamin M. Friedman minimized Thaler and Sunstein's contribution as simply proving that "common sense" exists. For Friedman, many of the nudges suggested by Thaler and Sunstein--for example, making "yes" to organ donation the default rather than "no," or making employees opt out of regular contributions to a retirement plan rather than opt in--would be obvious to anyone with a bit of common sense.
+Behavioral economics in general, too, has come in for criticism. On the scholarly side, academic economists and psychologists have questioned the validity of behavioral economists' experiments and their interpretation of the experimental results. For example, psychologist Gerd Gigerenzer argues that libertarian paternalism overstates people's irrationality and selectively reports research findings.
+Critiques of behavioral economics have also appeared in publications for general readers. In The New York Times, University of Illinois at Chicago professor of marketing David Gal argues that behavioral economists concentrate too much on how human behavior deviates from standard economic models and give short shrift to explanations why it does. Gal also notes that the evidence for the effectiveness of nudges is scant.
+In a review of two of Sunstein's later books, NYU law professor Jeremy Waldron wonders whether Thaler and Sunstein skirt the ways in which entities, especially governments, could use nudges for ill. In another, Yale law professor Samuel Moyn questions the effectiveness of nudges when an entire social system disadvantages certain people.
+Commentary on the Book's Approach
+Thaler and Sunstein write accessibly and, often, humorously. One way the authors engage readers is by beginning chapters with effective examples of the cognitive bias or behavioral foible they're focusing on. For instance, they open by inviting readers to look at two drawings of a table. At first glance, the tables seem to be quite different: the one on the left appears to be long and narrow, the one on the right shorter, with sides of more equal length. But, in fact, the tables are of equal size; they look different because of the way they're positioned on the page. This illustrates that certain errors of judgment are human nature.
+In general, each nudge that the authors discuss is tied to a specific cognitive bias drawn from the behavioral psychology literature. For example, nudges to help increase the number of organ donors rely on "status quo bias"--the idea that people will typically not change the default setting that's selected for them. However, the authors often suggest nudges but don't explicitly connect them to any specific cognitive bias.
+Commentary on the Book's Organization
+Nudge's structure gives the reader a solid grounding in the concepts Thaler and Sunstein will be using before illustrating the real-life applications:
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+12
+
+Summary: Nudge
+Part 1 summarizes the most useful insights yielded by behavioral psychology and economics and defines their key terms. Parts 2-4 discuss specific areas in which nudges could improve outcomes. The areas the authors cover comprise personal finance, health, and social institutions. Part 5 offers additional nudges, and it attempts to preempt critics by answering the potential objections to libertarian paternalism.
+There are drawbacks to this structure, however. One is that it separates the in-depth discussion of particular biases from the nudges in Parts 2-4. Although the authors will (occasionally) refer to the cognitive bias their proposed nudge corresponds to, the nudge often seems decoupled from the science that explains it. Indeed, most of the nudges on which the authors concentrate are really responding to only one or two cognitive biases. That is, many of the specific biases and decision errors the authors discuss in Part I aren't germane to the nudges they discuss in Parts 2-4. (Or, to put it another way, many of the nudges the authors discuss aren't grounded in any particular cognitive bias.)
+The nudge sections also lose a bit of focus as they progress. For example, the most consistent section of the book is Part 2--titled "Money"--which describes a series of nudges that can help people better save for retirement, invest, and manage credit card debt. The next part, titled "Health," includes a section on improving the environment, which is only tangentially related to health. Part 3, titled "Freedom," is a grab bag of nudges whose only common thread is their effect on social institutions. (In evangelizing for libertarian paternalism, the authors are noticeably "nudge happy"--for them, almost any idea or reform can be categorized as a type of nudge, and every nudge is worthy of mention.)
+Our Approach in This Guide
+Our guide reorganizes and simplifies Nudge to focus on the most practical nudges Thaler and Sunstein propose. After beginning with a survey of behavioral psychology's insights and a discussion of the authors' primary terms, we frame the rest of the concepts around four particular categories of nudges: defaults, maps, limits, and incentives. We finish up the guide with a few miscellaneous nudges that the authors propose.
+Throughout the guide, we present commentary that weighs the strengths and weaknesses of each particular nudge. And, along with the scientific grounding for each nudge, we present commentary that ties that grounding to other books and ideas. We also present our own and others' critiques of the relevant social science.
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+13
+
+Summary: Nudge
+
+Part 1: Overview of Biases, Libertarian Paternalism,
+and Nudges
+In Nudge, Richard H. Thaler and Cass R. Sunstein propose a series of reforms--"nudges"--that can help policymakers and other choice designers lead people to make better choices without restricting their freedom to choose. Thaler and Sunstein's premise is that no choice is ever neutral because the way a choice is presented, even if randomly, affects the way people engage with it--and so governments, private companies, and other entities should frame options in ways that can improve people's decisions.
+In this first part, we'll examine some common biases that Thaler and Sunstein argue drive people to make poor decisions, we'll give an overview of libertarian paternalism, and we'll look at when Thaler and Sunstein think nudges are needed.
+Common Biases
+Thaler and Sunstein argue that people have evolved to make snap decisions in a wide variety of areas in order to save time and mental energy--we're more likely to survive if we rely on rules of thumb (largely accurate guides based on experiences in similar situations) when deciding--for example, whether an animal is a threat (if we spend time carefully analyzing it, we might be eaten before reaching our conclusion).
+They note that while such rules of thumb--also called heuristics or biases--can be helpful, they can also mislead us into making poor decisions. Biases can be helpful when we, for example, estimate how often we'll need to stop for gas on a trip, or when we try a new food because we've had good experiences experimenting previously. But, biases can harm us when they skew our judgments. For example, we may see that everyone's buying up a hot stock and might jump to invest without properly assessing the risk (relying on the rule of thumb that if everyone's doing something, it can't be wrong)--and we might lose our investment if the stock subsequently tanks.
+Some of the biases that Thaler and Sunstein discuss in the book, upon which many of their nudges rely, include:
+The anchoring bias--when we take a fact we know (or think we know) and adjust it to account for a fact we don't (such as when an auction opens the bidding at a high number because people associate a high price with value and will therefore see that object as valuable (Shortform note: Impulsive decision-making favors anchoring bias, so using a simple checklist can help you overcome it.) The availability bias--when we answer questions and make judgments on the basis of whether comparable examples come readily to mind rather than statistical probability (if you hear a story of someone surviving a deadly disease, you're likely to think it's less deadly than the statistics show) (Shortform note: In business, you can avoid availability bias by creating diverse teams and seeking broad input.) The representativeness bias--when we categorize a phenomenon based on how similar it is to the stereotype of some category (when you believe a lawyer is skilled because she has a fancy office) (Shortform note: To avoid representativeness bias, ask others to point out when you're relying on it.) The status quo bias--when we stick with our first choice or current situation, just because (when you stick with your current phone service provider even though a different one offers a better deal). This bias leads to inertia--the tendency toward inaction. (Shortform note: Marketers often try to
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+14
+
+Summary: Nudge
+overcome consumers' status quo bias by framing the current status as a losing proposition.) The loss aversion bias--when we psychologically feel losses more strongly than gains, and therefore try to avoid them, even if it means we pass up opportunities in doing so or make risky decisions to avoid losses (think the stock market). (Shortform note: Studies show that people feel losses more than gains by approximately two to one.) Like the status quo bias, this bias can lead to inertia, because we're wary of the risks of change.
+(Shortform note: The names of these biases were coined by Kahneman, Tversky, and Thaler, as well as behavioral psychologists William Samuelson and Richard Zeckhauser. They're widely used today in behavioral economics and are accepted as a basis for many psychology theories in both academic circles and on more informal platforms, like blogs.)
+Do Cognitive Biases Exist? Kahneman and Tversky vs. Gigerenzer
+Throughout Nudge, Thaler and Sunstein take the cognitive biases (or, in Kahneman and Tversky's early formulation, "cognitive illusions") of heuristics for granted. However, researchers have challenged at least some of the psychological research on which Thaler and Sunstein rely.
+The most formidable challenge to heuristics research has been mounted by German psychologist Gerd Gigerenzer. In "How to Make Cognitive Illusions Disappear: Beyond `Heuristics and Biases'," Gigerenzer objects that Kahneman and Tversky (hereafter "K&T") have adopted a problematically narrow interpretation of probability theory. K&T's notion of biases (and the errors of judgment they produce) depend on norms of statistics and probability--in other words, that the rules of probability produce a "correct" answer, one that people miss because they rely on heuristics. Gigerenzer argues that K&T are misapplying probability theory because they concentrate on single events rather than the frequency of events.
+To explain what he means, Gigerenzer recounts one of K&T's most famous survey questions. In the preface to the question, they describe "Linda" as being an outspoken and intelligent former philosophy major, who, as a student, was active in the social justice and anti-nuclear movements. K&T then ask which is more probable:
+Linda is a bank teller
+Linda is a bank teller and active in the feminist movement
+In the original experiment, a whopping 85% of participants chose (b). According to probability theory, though, the conjunction of two events--that Linda is both bank teller and feminist, for example--is always less probable than the incidence of one of those events. In short, the participants were fooled by the representativeness heuristic: Because Linda fit their notion of a feminist, they chose (b), even though there are bound to be more bank tellers than there are bank tellers who are also feminist activists.
+However, for Gigerenzer, the participants' choice of (b) isn't an error. Because K&T ask for the probability of a single event--that Linda is a bank teller and feminist activist--rather than a frequency of events, K&T aren't actually testing people's ability to gauge probabilities at all. (Rather, writes Gigerenzer, they're asking a question about social psychology.)
+Gigerenzer notes that, when the question asks about frequency rather than a single event, the representativeness heuristic disappears. In a different version of the question, participants are
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+15
+
+Summary: Nudge
+told that there are 100 people who fit Linda's description (philosophy major, active in social justice movements). Then participants are asked how many of them are
+bank tellers
+bank tellers and active in the feminist movement
+When the question is phrased this way, the numbers effectively reverse, with over 80% of participants answering that more people are (a) than (b).
+K&T, for their part, dispute Gigerenzer's characterization of their findings, noting that a central part of their research program is indeed exploring how the framing of a question can affect people's reasoning ability. (Again, if we were all homo economicus, the wording or context of a particular question would be immaterial.) In fact, K&T report in their own work that changing the wording of a question to emphasize frequency mitigates the representativeness heuristic. In other words, they allege that Gigerenzer's critique is based on their own results.
+Gigerenzer's subsequent research program has focused on the advantages of "fast and frugal" reasoning.)--that is, the advantages of gut feelings and heuristics. At the moment, though, his critique seems to have lost out: Kahneman and Tversky's (and so Thaler and Sunstein's) theories of heuristics are dominant in the fields of behavioral psychology and economics.
+
+Libertarian Paternalism and Choice Design
+Thaler and Sunstein's object in Nudge isn't simply to provide solutions to people's habits of making poor choices for themselves; rather, it's to introduce an umbrella approach to public policy: libertarian paternalism.
+Libertarian paternalism describes a combination of libertarianism (prioritizing personal freedom) and paternalism (limiting choice in order to bring about better results). In a world of libertarian paternalism, the public and private entities that present us with choices--choice designers--would use subtle techniques to push us toward the "right" choices--the ones we would make for ourselves if we weren't susceptible to cognitive bias, temptation, or social influence.
+These pushes, so subtle that the average person wouldn't recognize them as influences, are what Thaler and Sunstein call "nudges." An effective nudge takes advantage of our decision-making weaknesses to steer us toward beneficial--or, at least, less harmful--choices.
+Critiques of Libertarian Paternalism
+Thaler and Sunstein fashion libertarian paternalism as a happy medium between far-right libertarianism and far-left paternalism. As a result, libertarian paternalism has come in for critique from both the left and the right.
+On the right, orthodox libertarians believe that libertarian paternalism is problematic because any kind of paternalism is problematic. For example, in his book The Manipulation of Choice: Ethics and Libertarian Paternalism, philosopher Mark D. White argues that presuming to know what the "right" choice is for anyone is a nonstarter; people are too different for there to be any baseline standard of what's "good" or "bad" for someone. Because libertarian paternalism presumes a universally
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+16
+
+Summary: Nudge
+preferred choice, it fails to account for the infinite variety of preferences among people.
+Reviewing Nudge for the Mises Institute, a research organization committed to the free-market thought of economist Ludwig von Mises, scholar David Gordon argues that libertarian paternalism's assumption of human irrationality--our vulnerability to bias, temptation, and other influences --could be dangerous to human freedom. For example, if people are incorrigibly prone to bias, who's to say that any decision a person makes is the "right" one? Gordon believes Thaler and Sunstein's assumptions of human error in decision-making could lead to more paternalistic, and less libertarian, "nudges" down the line.
+On the left, critics have taken issue with the libertarian commitments of libertarian paternalism. For example, in a review of Sunstein's How Change Happens (2019) in The New Republic, Aaron Timms points out that "nudges" are inadequate to large-scale problems like climate change or income inequality that require societal, "paternalistic" regulation and reform.
+Nudges, and When to Nudge
+According to Thaler and Sunstein, not all decisions require nudges. (Although it's important to remember that all choices feature some sort of design and so, in effect, feature nudges, whether on purpose or not.) The kinds of decisions that most warrant nudges are:
+Rare and Difficult Decisions
+Saving for retirement, buying a house, or choosing a college are each monumental decisions that come around once or rarely in a lifetime. Because we only have one or two cracks at each decision, we have no opportunity to learn if we make a mistake. Thus they're prime candidates for nudges.
+(Shortform note: A libertarian counterargument might be that, when it comes to major life decisions, no one, no matter how well intentioned, should be putting their finger on the scale. But, as Thaler and Sunstein note, all choices, whether purposely or not, already feature nudges, and so it's acceptable to curate that choice to improve outcomes.)
+Decisions With Delayed Outcomes
+For many decisions, the results of our choices are immediate and clear. When we use our debit card to buy a gift for a loved one, we see the consequences of that choice reflected almost instantaneously on our account statement.
+For other decisions, however, the outcomes of our choices are delayed or obscure. For example, someone can smoke for years and experience no negative effects--until the day he or she suffers a stroke. Nudges can help us make better decisions in situations like these, when the consequences of our actions aren't immediately apparent.
+(Shortform note: Thaler and Sunstein's assumption here is that, although the outcome is delayed for the chooser, it's immediate--or at least known--to the choice designer. But there are any number of choices where the ultimate outcomes are unknown to all. Take smartphone use, for example. Studies have shown that smartphones boost worker productivity--in addition to providing convenience--yet the long-term health effects of consistent cell phone use remain unclear. In this circumstance, it might be perilous to nudge someone toward or away from using a cell phone.)
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+17
+
+Summary: Nudge
+Decisions Requiring Specialized Knowledge
+Many of the most important decisions we face--choosing a retirement or health care plan, for example-- are presented to us using specialized terms that can confuse more than inform. Most of us--unless we work in finance--would be at a loss when faced with terms like "defined contribution" and "expense ratio." Given especially complex and unpredictable options, nudges can be vital.
+(Shortform note: These sorts of nudges can also be used to take advantage of the layperson. For example, a financial firm might nudge a client toward an investment that benefits the firm itself more than the investor.)
+Decision-Making 101
+Nudges aren't the only way to improve people's decision-making; in fact, there's a vast literature dedicated to helping us think twice (sometimes literally!) before making a choice.
+Tony Robbins's Awaken the Giant Within teaches readers to take control of their "Master System"--the ideas, emotions, values, beliefs, and experiential reference points that inform any decision.
+In Atomic Habits, James Clear shows how half of our daily actions (i.e., decisions) are force of habit. Once we become aware of our habits and how to change them, we can also improve our decision-making.
+In Multipliers, Liz Wiseman and Greg McKeown break down the personal qualities that result in successful leadership. "Multipliers"--those leaders who add value to whatever situation they find themselves in--consult as many people as possible, especially if they have divergent viewpoints, before coming to a decision.
+In The Gifts of Imperfection, author Brené Brown writes that one of the keys to living "wholeheartedly" is to follow your intuition when making a decision. She advises her readers to let go of the need for certainty and simply "go with your gut."
+Daniel Kahneman, in Thinking, Fast and Slow, writes that when it comes to high-stakes decisions, we absolutely must think twice--that is, we have to use our careful and deliberate system of cognition (System 2) to augment our intuitive, automatic system (System 1).
+Which approach to decision-making is the most effective? Is it better to seek out as much advice as you can (Wiseman and McKeown), think twice (Kahneman), or go with your gut (Brown)? There's evidence to support each, yet Thaler and Sunstein would likely say that the answer is immaterial: Because nudges rely on our tendency to err, they remove--or at least reduce--the need for improved decision-making skills.
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+18
+
+Summary: Nudge
+Part 2: Designing Choices--Overview
+According to Thaler and Sunstein, the most effective way for choice designers to influence choosers' decisions is through the educated and purposeful design of choices. They outline six techniques-- anticipating error, offering defaults, emphasizing outcomes, drawing maps, narrowing the field, and offering incentives--that can be applied to some of the most difficult and momentous choices people face to help them make better choices.
+(Shortform note: In fact, all nudges are essentially a form of anticipating error: They respond to--and attempt to disrupt--particular habits in decision-making that lead us astray. The six techniques are tools to help manage that instinctive error.)
+Parents use these six techniques intuitively. (Parents, whether they realize it or not, are seasoned choice designers.) How do parents nudge their children toward more healthy food choices, for example?
+1. They might anticipate error--that is, their child raiding the cookie jar when the parents aren't looking --and choose to hide the treats (or not keep them in the house at all).
+2. They might institute a healthy default--for example, the child is always allowed fruit for dessert-- which could mitigate requests for less healthy options.
+3. They might emphasize the outcome of the child's choices. For example, if a child isn't eating her vegetables, a parent might warn her that she won't grow up to be "big and strong" like her favorite athlete.
+4. If a child is having trouble connecting healthy choices to clear benefits, parents might draw them a map that outlines how their healthy choices will lead to better outcomes. (For example, "When you eat vegetables, your muscles absorb valuable nutrients that help them grow, making you better able to run faster and jump higher.")
+5. When there are many choices available, parents will narrow the field to nudge their child toward the healthier choices. (For example, at a restaurant, a parent might allow their child to order pancakes or dessert but not both.)
+6. They'll offer incentives to encourage healthier eating. (For example, a child might earn extra TV time for each piece of fruit he or she eats.)
+Choice Design and Paternalism
+The use of parenting as an analogue for Thaler and Sunstein's choice designer points to the fundamental question the authors are at pains to address: How is choice design different from straight-up paternalism? Isn't designing a choice system--say, a company retirement plan--to effect certain outcomes just like a parent mandating certain choices for his child?
+There are two key aspects of choice design that undermine its paternalism:
+First, (some kind of) choice design is inevitable. Picture any choice you've had to make, from the most commonplace (choosing which brand of AA batteries to buy) to the most consequential (deciding whether to undergo a particular kind of medical treatment). Each of these choices comes with a particular choice structure, whether purposefully designed or not: A store clerk just happens to put the Energizer batteries at eye level, or your doctor presents the therapeutic options in terms of their success rates rather than failure rates. Because of our innate cognitive biases and tendencies, these choice structures influence the choices we make. For example, if a doctor tells you that a
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+19
+
+Summary: Nudge
+procedure has a 90% success rate, you'll probably opt for that procedure. If he tells you that 10 out of 100 people who get the procedure have debilitating side effects, you might think twice about the procedure even though the risk is exactly the same.
+Thaler and Sunstein argue that because some kind of choice design is unavoidable, it's not invasive or an overreach to think about how certain choices are presented and to change that presentation to encourage good choices. Second, choice design never constrains choice. Traditional paternalism constrains choice by topdown, command-and-control means. (Two classic examples of paternalism are so-called "sin" taxes, which make unhealthy products like soda and tobacco products prohibitively expensive, and outright bans.) Choice design, however, doesn't limit a person's choices; it just orders or organizes those choices to urge the chooser toward the best choice.
+For example, say a pharmacy decides to remove any candy products from its register areas--to discourage unhealthy eating habits--but continues to carry those products in its aisles. The pharmacy hasn't limited its customers' choice--customers can still purchase candy there--but it has changed the choice structure to promote a certain outcome.
+In the following chapters, we'll discuss four of these techniques in detail: designing defaults, drawing a map, narrowing the field, and offering incentives.
+Exercise: Be a Choice Designer
+Apply choice design in your own life.
+Think about a choice that you've recently presented to someone in your life. (It can be as simple as asking someone what they want for dinner!) Write down the choice and to whom you offered it.
+
+Now analyze the choice as a choice designer. Which of the six techniques did you employ? Did you use a default? Did you "map" the benefits of the various options for your chooser?
+
+Think further about your choice design. Were the incentives--whether economic or otherwise--clear to your chooser? How or how not?
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+20
+
+Summary: Nudge
+Now think about a choice you'll need to offer someone in the near future. How might you use the techniques of choice design to lead the person to the best possible choice?
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+21
+
+Summary: Nudge
+Technique 1: Offer Defaults
+The first of the four choice design techniques we'll examine in detail is Thaler and Sunstein's most versatile nudge: the default--that is, the choice that's automatically made if the chooser does nothing.
+The theory underlying this style of nudge is people's innate status quo bias. Thaler and Sunstein apply the default nudge to a number of areas, including retirement saving, investment choices, and organ donations, each of which is detailed below.
+(Shortform note: While Thaler and Sunstein advocate using the default choice technique to nudge people toward their best interests, it can also be used to get people to act against their interests and in favor of "nudgers." For example, in the 2020 US presidential election, both parties came under fire for using an autochecked box on online donation forms authorizing weekly recurring donations--which many donors failed to notice until they'd committed thousands of dollars.)
+Using Defaults to Improve Saving
+Thaler and Sunstein note the troubling economic trend among Americans of declining savings. In 2005 (when Nudge was written), thanks to abundant, cheap credit and low interest rates, Americans spent more, and the savings rate was actually negative for the first time since the Great Depression. (Shortform note: Since then, Americans' savings habits have improved considerably. Whereas in 2005 Americans saved at a rate of around 0% of disposable income, in 2021, they were saving at rates above 10%.)
+Thaler and Sunstein contend that given the ever-growing strains on the Social Security system, Americans will need to save more themselves to enjoy a comfortable retirement. But how do you get people to save more without infringing on the principles of economic liberty?
+The authors recommend automatically enrolling employees in a retirement plan--that is, making enrollment the default--and offering an option to opt out of the plan. They posit that due to people's status quo bias and tendency toward inertia, most of these employees won't bother to disenroll, thereby ensuring those employees at least some personal retirement savings.
+Research has shown this method to work. One study found that, under an opt-in approach--meaning employees have to choose to enroll in their 401(k)--participation in a particular retirement plan was 20% three months after hire, growing to 65% within 36 months. When the plan adopted automatic enrollment, new-employee enrollment jumped to 90% and grew to 96% within 36 months.
+(Shortform note: Some researchers have disputed the efficacy of auto-enrollment in retirement plans, finding that, in some cases, the retirement savings generated by auto-enrollment were offset by a rise in personal debt. The explanation for this finding could be that the auto-enrolled workers, because they felt like they had a safety net for the future, thought they could spend more in the present. Alternatively, they may have continued to spend as they always had even though they had less ready cash available to spend.)
+Automatic Saving Programs
+According to Thaler and Sunstein, auto-enrollment solves the problem of getting workers to begin saving for retirement. What it doesn't do, however, is nudge workers to increase their retirement contributions as they move up the pay ladder. (For example, a default initial enrollment contribution might be 2% of a
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+22
+
+Summary: Nudge
+worker's income. Ideally that percentage will rise as a worker's pay increases.) Again, workers generally don't proactively increase their percentage contribution because of their status quo bias and inertia.
+(Shortform note: Of course, as a worker's salary increases, so too does the dollar amount of the 2% contribution. For example, if a worker is granted a raise from $100,000 to $110,000 and keeps her contribution at 2%, the contribution increases from $2,000 to $2,200.)
+To address this, Thaler and Sunstein propose that employers ask people to commit to automatically increasing their contribution percentages when they first sign up for their retirement savings programs. In this way, the status quo bias and inertia can work in employees' favor, making automatic increases tied to pay increases the default setting.
+In the pilot implementation of such a program in 1998, researchers found that a large majority--nearly 80% --of employees who were resistant to increasing their savings rate immediately were amenable to the automatic increase option. As it turned out, the workers who opted into the program ended up saving the most among their colleagues; and when they maxed out their allowable contribution under the terms of the plan, they simply left their contribution at that maximum rate.
+The specific program the authors reference is called the Save More Tomorrow program and was developed by Thaler in collaboration with another economist, Shlomo Benartzi. In 2018, Benartzi estimated that almost $30 billion had been added to Americans' retirement accounts thanks to autoenrollment and Save More Tomorrow programs.
+But he also acknowledged that more programs are needed to reach more people. The Save More Tomorrow program is designed for workers with access to traditional retirement plans like 401(k)s and 403(b)s. However, gig workers such as Uber drivers or TaskRabbit contractors need other kinds of nudges to start saving. Benartzi has proposed encouraging people to save on a daily basis rather than monthly or annually, as it might seem less daunting to put aside smaller amounts at a time.
+
+Using Defaults to Improve Investment Choices
+Thaler and Sunstein note that not long ago, the most common retirement plan offered by employers was a "defined benefit" plan--that is, one that made fixed payments to the beneficiary based on tenure and salary. Now, the most common type of retirement benefit is a "defined contribution" plan, in which employees make periodic contributions to a tax-sheltered investment account, on the assumption that they'll get back an increased return in later years.
+(Shortform note: In 2020, 64% of private industry workers had access to a defined contribution plan while only 15% had access to defined benefit plans. In 1990, those numbers were 34% and 35%, respectively, showing that slightly more people used defined benefit plans in the past.)
+This shift put a greater decision-making burden on workers: What level of risk am I willing to take, and how do I allocate my savings accordingly? Should I be investing in stocks or bonds or both? How often should I revisit my allocation of assets, and what real-world information should I be looking for to know when to change it?
+According to classically trained economists, we should have no trouble making the right investment choices.
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+23
+
+Summary: Nudge
+This is because, in most economic models of human behavior, people are thought of as eminently rational and self-interested actors who consistently make the best decisions for themselves--that is, people are homo economicus.
+The Critique of Homo Economicus
+Introduced by classical economists like Adam Smith and John Stuart Mill, the term homo economicus --"economic man"--conceives of people as predictably rational and self-interested, thus able to make the most beneficial economic choices for themselves. (In more technical terms, when faced with a decision, homo economicus makes the choice that "maximizes expected utility.") In most of the economics research of the last century, people are modeled in just this way: as able to maximize their own economic benefit.
+With the advent of behavioral psychology and economics, however, researchers have established that homo economicus is a fiction--that people's rationality is "bounded" by any number of cognitive and contextual factors. (In fact, one study determined that real people who meet all the criteria of homo economicus might be diagnosed as psychopathic.) Thus--at least according to proponents of people's "bounded rationality"--much of the economics literature rests on a flawed assumption and so can't be applied to real-world policy.
+Debates are ongoing about the accuracy of economic models that rely on homo economicus. Some commentators find that people do in fact act consistently and self-interestedly when faced with decisions while others maintain homo economicus is a chimera. Thaler and Sunstein, for their part, fall into the latter camp, arguing that "Econs"--or "economic people"--simply do not exist.
+Thaler and Sunstein argue that if people indeed met the criteria of homo economicus, we would have no trouble (1) recognizing that stocks outperform bonds historically and (2) calculating our tolerance for risk based on the probability distribution of stock market returns. But, because we're human, the complexities and variability of defined-contribution plans cause us to make mistakes that end up--quite literally-- costing us.
+One way to remedy these mistakes, they suggest, is with better defaults, specifically "target maturity funds" that automatically reallocate their asset mix based on a worker's age. A target maturity fund will have a riskier asset allocation--more stocks, fewer bonds--when a worker is young and gradually recalibrate as the worker ages. By the time the worker retires, his portfolio will be heavily weighted toward fixed income assets like bonds.
+(Shortform note: Nassim Nicholas Taleb explores the biases that make people bad at assessing risk in his book Fooled by Randomness, in which he argues that when we make decisions, we are typically guided by our primitive brain, which runs on emotion, likes simplicity, and has trouble understanding abstract concepts. When investing, we therefore do things like act impulsively, sell a stock too soon if it's doing poorly (even if its long-term prospects are good), and misjudge our abilities to play the stock market--in reality, it's luck that rules the market and determines most success, not our skill in choosing stocks. Thaler and Sunstein's solution of using targeted maturity funds to sidestep our natural impulses addresses Taleb's concerns, as it takes the decision-making process away from our primitive brain and relies instead on rational algorithms.)
+The authors contend that the most destructive cognitive bias when it comes to investing is loss aversion. Numerous studies--including Daniel Kahneman and Amos Tversky's "Prospect Theory: An Analysis of
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+24
+
+Summary: Nudge
+Decision under Risk"--have shown that people, as mentioned earlier, tend to feel losses more strongly than they feel gains. Because of this, we frequently make unideal decisions to avert losses rather than realize gains.
+Experimental Evidence of Loss Aversion
+A famous illustration of loss aversion comes from one of Thaler's "Anomalies" columns in the Journal of Economic Perspectives. To test people's economic decision-making, Thaler and his coauthors divided a large lecture class into three groups and had them pick prices for a souvenir coffee mug. The three groups were (1) "sellers," who were given the mug and had to pick a sell price; (2) "buyers," who weren't given the mug and had to pick a buy price; and (3) "choosers," who weren't given a mug but could choose either the mug or the cash equivalent of its price. (There was a limited number of price options ranging from $0.25 to $9.25.)
+The median price chosen by the sellers was $7.12, while the median prices chosen by the buyers and choosers were $2.87 and $3.12 respectively. In other words--as noted above--the sellers overvalued the loss of the mug by a 2:1 margin. (Thaler coined the term "endowment effect" to describe this phenomenon. According to this theory, people price items they already own higher than they would if they were purchasing the item anew.)
+Subsequent researchers have offered different interpretations of the mug experiment, however. For example, one study found that loss aversion wasn't the driving force behind the price disparities; rather, it was inertia--that is, neither the buyers nor the sellers were sure what the mug was worth to them, so the prices reflect the necessary incentives to bother buying or selling the mug.)
+Thaler and Sunstein write that when it comes to investing, loss aversion typically manifests itself in overreactions to short-term market fluctuations. For example, people will fixate on the monthly, weekly, or even daily movements of the market and potentially change their asset allocations on those bases--when, in fact, these fluctuations belie the long-term upward trend of the market. They point to a study of retirement plans administered by Vanguard that showed new enrollees allotting 58% of their account to stocks in 1992, 74% by 2000 (when tech stocks were booming), and 54% by 2002 (after the tech bubble burst). In other words, these employees bought high and sold low--the exact opposite of what they should have done. A target maturity fund, which reallocates over the long run, prevents us from indulging our bias against losses.
+A Nuance of the Vanguard Illustration
+Despite the strength of their argument, the authors may be presenting the Vanguard example in a slightly misleading way. The study only looked at how new enrollees allocated their funds. It did not track their subsequent market movements. It did this because generally, due to inertia, once people have decided on a percentage of allocation, they don't bother to change it, so the best way to track how the market's current performance affects behavior is to look at times when people are actively making these decisions--generally, when they first join a company and fill out the forms. Thus, the authors' assertion that people buy high and sell low is a little misleading--the study doesn't actually say if they sold their holdings, it only says that they bought less when the market was low.
+The effect, however, is essentially the same. People invested more heavily in the market when it was already inflated. Experts might further point out that an investor can buy high and still make money if
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+25
+
+Summary: Nudge
+they hold those assets. For example, if an investor had bought Amazon stock in December 1999, he would have paid around $90 a share. That investor would have seen the stock price plummet to single digits in late 2001 after the dot-com bubble burst. But, if he continued to hold the stock through today, he would have seen the share price grow to over $3,000.
+Using Defaults to Improve Organ Donation Thaler and Sunstein note that despite the fact that large majorities of Americans support organ transplantation and are willing to be donors when polled, they frequently fail to inform their loved ones of their wishes or to register as organ donors themselves.
+Given the dire need of organs--as of February 2021, there were over 107,000 Americans on organ waiting lists--it's vital for policymakers to engineer ways to transform Americans' willingness to be donors into concrete action.
+The authors recommend fixing this by changing the default--making organ donation the default ("presumed consent") and requiring people to opt out.
+In most states, organ donation is indicated on a person's driver's license; but, because the organ donation question is optional--or simply a box on the back of the license that one must check--many people simply neglect to answer. (Again: inertia at work.) And because most states have "nondonor" as their default, "no answer" equals "nondonor."
+Thaler and Sunstein's solution is to make people's choice of organ donation a default requirement of acquiring their driver's license--that is, in order to receive a driver's license, the driver must choose to be an organ donor or not to be one. Given Americans' general positive sentiment toward organ donation, this strategy is likely to result in large increases in organ donors; and it preserves freedom by giving people the choice to opt in or out.
+(Shortform note: Studies have shown that presumed consent systems of organ donation don't necessarily increase the number of available organs. In addition, Thaler and Sunstein don't consider the possibility that surveys about organ donation might be tainted by social-desirability bias--that is, the tendency for subjects to give the socially acceptable answer to a question, even when it's not what they truly believe. For example, people know they should be organ donors, but, when it comes down to actually committing, they might prefer not to.)
+Exercise: Design DIY Defaults
+Design some personal defaults to defeat inertia.
+List some examples of defaults in your own life (do you tend to always buy the same brand of milk, clothing, or car?).
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+26
+
+Summary: Nudge
+Now write down how these defaults could be changed to improve outcomes. (Might you reach for a healthier afternoon snack as your default if fewer unhealthy snacks were on hand or if they were harder to access?)
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+27
+
+Summary: Nudge
+Technique 2: Draw a Map
+A carefully chosen default combats the human tendency toward inertia and the status quo, but how can a choice designer help active choosers navigate complicated decisions?
+One way, according to Thaler and Sunstein, is to draw the choosers a map to help connect particular outcomes with particular choices.
+To help choice designers effectively draw a map, Thaler and Sunstein advise that regulators mandate transparency programs whereby companies would be required to provide consumers with more--and more clearly organized--information about their products so that consumers can better compare choices and make the right decision.
+By presenting us with clearer information, a transparency program could help combat our tendency to use rules of thumb.
+Transparency Programs in Personal Finance
+From mortgages to student loans to credit cards, Americans are some of the most indebted people on the planet. (Shortform note: Although not as indebted as some. As of 2020, according to data from the Organization of Economic Cooperation and Development (OECD), United States households are in the middle in terms of debt. Households in Spain, France, Canada, and the United Kingdom hold more debt than American households, while German, Italian, and Brazilian households hold less.)
+Thaler and Sunstein note that despite, or perhaps because of, the proliferation of debt products--variablerate mortgages, specialty credit cards--most of us have no idea what kinds of risks we're taking on when we borrow. And so we revert to heuristics: For example, we might open a new credit line--despite its not being appropriate for us--because a friend opened one (availability heuristic); or we might take out whatever mortgage is on offer because we think they're all the same (representativeness heuristic).
+Thaler and Sunstein examine two areas in particular where, because of their natural complexity, transparency programs can greatly help consumers: mortgages and credit cards.
+Mortgages
+The contemporary mortgage market is dauntingly complex. Mortgage shoppers now have to know the difference between fixed-rate loans (whose interest rate stays the same for the life of the loan) and variable-rate loans (whose interest rate fluctuates with the market), recognize teaser rates (a lower initial rate that often balloons after that initial period ends), and somehow take into account fees (administrative charges by the issuer), points (payments that result in lower interest rates), and penalties (for example, for paying off the loan early).
+(Shortform note: Nudge was published in the earliest stages of the 2008 financial crisis and the consequent changes to US financial regulations, many of which were aimed at addressing the very problems Thaler and Sunstein discuss. The most profound change, arguably, was the Dodd-Frank Wall Street Reform and Consumer Protection Act. This law created the Consumer Financial Protection Bureau (CFPB), which regulates consumer financial products like credit cards, mortgages, and the like. It also included the Mortgage Reform and Anti-Predatory Lending Act, which disallows balloon payments and certain penalties and, in certain circumstances, requires financial institutions to provide loan counseling to the mortgagee.)
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+28
+
+Summary: Nudge
+Thaler and Sunstein argue that one way to reduce the complexity of contemporary mortgages would be to implement one of two possible versions of a transparency program:
+In the simplest version, lenders would have to report the costs of the loan in two categories: fees and interest. In the slightly more complex version, the fees could be itemized, but they would have to add up to a single number (which could then be used to compare various mortgages across lenders).
+The interest category would include greater detail than is customary now. For example, the report would feature a schedule of payments over the lifetime of the loan so borrowers know exactly what they'll be paying when.
+Lenders would also be required to supply borrowers with machine-readable versions of their reports, with all fees and rates included. Thaler and Sunstein predict that with the standardization of these reports, thirdparty firms will appear that can analyze these reports and compare them.
+(Shortform note: In 2011, possibly under the influence of behavioral researchers like Thaler and Sunstein, the CFPB inaugurated the "Know Before You Owe" project to design and implement new mortgage disclosure documents that make it easier "to shop around and compare loan offers" and "avoid costly surprises at the closing table.")
+Thaler and Sunstein also predict that transparency programs will make shopping for mortgages online easier, a key feature for women and African-American borrowers: A study of automobile shoppers found that buyers from these two social groups paid less online than they did when they went to a dealership.
+(Shortform note: Unfortunately, it turns out that online lenders discriminate, too. Although there's evidence to suggest online lenders approve loans for borrowers of color at greater rates, researchers at the University of California found that online borrowers of color paid on average 5.3 basis points more than white borrowers for the same mortgage interest rate.)
+Credit Cards
+Credit cards are a primary vehicle for US indebtedness, and Thaler and Sunstein produce an array of statistics that illustrate their centrality to Americans' personal finances, including the average number of credit cards per cardholder (8.5) and the average American's credit card debt ($8,000).
+(Shortform note: However, as noted above, Americans' debt situation has changed significantly since Nudge's publication (and the corrective of the 2008 financial crisis). Whereas, in 2007, the credit card debt of the average American household was around $8,000, as of March 2021 it was $6,741.)
+Thaler and Sunstein's solution to the spendthrift effects of credit cards is a credit card-specific transparency program.
+In this system, credit card companies would be required to send cardholders a detailed annual statement featuring not only the year's purchases but also the year's fees, interest charges, and penalties. This information would make the true cost of our credit card spending clearer to us and allow us to more easily compare cards.
+(Shortform note: The Credit Card Accountability Responsibility and Disclosure Act of 2009 (Credit CARD act) outlawed many of credit card companies' most unsavory practices, including raising interest rates arbitrarily and giving cardholders insufficient time to pay their debt before incurring a penalty. It also nudged credit
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+29
+
+Summary: Nudge
+card companies to provide (1) simpler and more transparent agreements and (2) more information in their statements, including target dates for paying off the card if the cardholder only made minimum payments. In addition, most credit cards' online banking interfaces offer annual reports as well as real-time transaction information.)
+Thaler and Sunstein propose another nudge that would alter the default for the credit card's autopay feature. Whereas most cards default to whatever the minimum payment is for that month--typically a tiny fraction of the total amount owed--a libertarian paternalist approach would set the default at a higher percentage of the total, or even allow cardholders to automatically pay off the entire amount owed every month.
+(Shortform note: Most credit cards' autopay features have the equivalent of a mandated choice step: Users have to opt in to the autopay option. But, once users have opted in, they have more choices than just paying the minimum.)
+Transparency Programs in Health Care
+Choosing a health insurance plan, like choosing a retirement plan or mortgage, is a decision with high stakes, specialized terminology (PPO, HMO, HSA), and delayed outcomes. Thus it's a choice ripe for helpful nudges.
+To illustrate the need for nudges when it comes to choosing a health care plan, Thaler and Sunstein examine the choice structure of Medicare Part D, the prescription drug benefit for American seniors that passed in 2003 and rolled out in 2005. When the program debuted, it offered beneficiaries a choice of, on average, between 40 and 50 unique plans; its defaults for so-called "dual eligibles"--poor or disabled citizens who qualified for both Medicare and Medicaid--were chosen at random; and its website was so complex that even the most computer savvy senior would have trouble navigating it.
+In short, Medicare Part D offered too many choices without adequate information or functionality to help seniors map plans to benefits.
+(Shortform note: When, in 2013, the debut of the health insurance marketplaces instituted by the Affordable Care Act (ACA) was marred by technical glitches and minuscule enrollment, commentators frequently invoked the flawed rollout of Medicare Part D eight years before as a comparison.)
+In addition to smarter defaults that would automatically assign dual eligibles to plans based on their current prescriptions, Thaler and Sunstein propose a Medicare Part D transparency program. In such a program, Medicare Part D plans would provide enrollees with an annual report that included an itemized list of medications used and fees incurred. This report would be available digitally as well as physically, so it could be imported into the Medicare website or a third-party application for comparison with competing plans.
+(Shortform note: The digitization of the health care industry has brought about many improvements that Thaler and Sunstein likely approve of, allowing more information to be readily accessible to users. Most insurers now offer personalized online interfaces through which customers can access all claims and payment information. Many insurers--and marketplace.gov--also offer comparison tables that illustrate different plans' benefits.)
+Are Transparency Programs Actually a Nudge?
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+30
+
+Summary: Nudge
+In some of Thaler and Sunstein's examples of transparency programs, they conflate disclosures made before a transaction with those made after it. For example, Thaler and Sunstein categorize both of the following as transparency:
+A cellular service enumerating all of its fees, including real-life examples, before a person purchases the service A cellular service providing its customers with a detailed report listing all the ways a person actually used the service and the fees that person incurred The problem with classifying the second example as a nudge is that it's helpful only after the person has already made a choice. In other words, under that scenario, we might make a terrible initial choice and receive our "nudge" only when we get the detailed report. The transparency, therefore, doesn't change our behavior during the decision-making process and therefore is not an actual nudge. Some critics of the book have pointed out as much, arguing that some of what Thaler and Sunstein press for is merely more transparency, which is hardly a revolutionary idea.
+Exercise: Create DIY Transparency
+Bring transparency to your personal finances by carefully examining your current financial tools and comparing them with alternative options.
+Do you have a credit card? More than one? List the number of credit cards you have and the amounts owed on each. (If you don't have a credit card, you might list any other revolving debt obligations you have.)
+Do you know the interest rates on each of your cards? If so, list them; if not, look them up and then list them. Also list any perks or special features of your cards.
+Now take stock. Which of your cards offers the lowest rate? Is your debt ideally allocated (in other words, do you have too much debt on a high-interest card?) If you only have one card, spend some time researching alternative cards--are alternative companies offering better rates?
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+31
+
+Summary: Nudge
+Reflect on transparency programs. Are there other ways credit card companies could improve their choice design or help anticipate delayed outcomes?
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+32
+
+Summary: Nudge
+Techniques 3 and 4: Narrow the Field and Offer Incentives
+The most versatile nudges Thaler and Sunstein suggest are defaults and transparency programs, so it should come as no surprise that those are the nudges that get the most attention in the book.
+That said, Thaler and Sunstein also describe an array of additional nudges, among them (1) narrowing the field of choices and (2) offering incentives.
+Narrowing the Field
+Thaler and Sunstein believe in people's right to choose (hence the libertarian half of libertarian paternalism). But they also recognize that too much choice can be overwhelming and counterproductive. (Shortform note: Researchers refer to this as choice overload or the Paradox of Choice: We want more options because we think it maximizes our chances of making the best choice, but having too many choices paralyzes us.)
+Medicare Part D, for example, offered seniors an incredible breadth of choices--but too little direction in terms of discerning among them. Another example: When Sweden partially privatized its social security program in the 1990s, it went the maximization route, offering Swedes up to five choices of investment funds from a list of 456. (Shortform note: The Premium Pension System--the privatized part of Sweden's pension plan--has at times hosted over 800 different funds.) Unsurprisingly, many Swedes, adrift in the sea of choices, opted for underperforming funds with high management fees.
+(Shortform note: What Thaler and Sunstein couldn't have known at the time of Nudge's writing was that Sweden's privatization reform would result not only in suboptimal investment choices by the Swedes but in fraud by some investment funds. In response to the private funds' criminality, Sweden has had to deregister a number of private funds, compensate pensioners, and initiate reforms to regulate the private fund managers more tightly. One regulatory authority--seeming to take a page out of Thaler and Sunstein's playbook--opined that the Premium Pension System should only feature 10-15 funds.)
+One way to narrow the field is simply to offer fewer options. However, since this limits choices, which Thaler and Sunstein oppose (as it contradicts libertarianism), they propose another way of narrowing the field of options: grouping and structuring the choices to make them more manageable.
+For example, many retirement plans offer "tiered" investment choices; rather than hand enrollees a voluminous and undifferentiated list of funds to choose from, retirement plans will offer, say, three different tiers, each corresponding to enrollees' level of investment interest and experience. In this kind of choice structure, Tier 1 might feature a single default target maturity fund; Tier 2, a small collection of funds, each with a different mix of assets to represent conservative, moderate, and aggressive positions; and Tier 3, the full complement of funds for the savvy investor who wants total control over her investments. In this example, choices are structured but not limited.
+(Shortform note: Because choices aren't limited in a tiered system, it isn't foolproof: If an inexpert but riskseeking enrollee wants to bet her retirement on the most aggressive and fee-laden actively managed fund, she's free to do so, even if it could result in catastrophe.)
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+33
+
+Summary: Nudge
+Offering Incentives
+Old-fashioned incentives, financial or otherwise, can also nudge choosers toward better decisions. The key to a successful incentive, argue Thaler and Sunstein, is to make its benefits relevant and obvious to the person making the choice. For example, if you make the cost of using something clear to the user each time they use it, they'll be more aware of the costs than if they pay an up-front fee for it at, say, the beginning of the month. This is because people tend to forget an up-front fee but are very aware of ongoing fees. Thus, by highlighting per-usage costs, which make the benefits clear and relevant to the user (and thus offer clear incentives to adjust behavior), choice designers might successfully nudge people to use something less often.
+Economists have long noted the power of incentives in driving human behavior--the concept underpins a capitalist society. Most economists agree that the primary incentives that drive behavior are self-interested incentives. As outlined in Charles Wheelan's Naked Economics, when people work to benefit themselves, they generally benefit others as well (as when they work to earn a salary, what they produce raises the standard of living for others).
+This is not always cut-and-dried, though--different people will be motivated by different wants, which makes an economist's job difficult when picking incentives that will motivate large numbers of people. However, Thaler and Sunstein's proposals aim to appeal to the majority through simplicity: No one wants to pay more than they need to for an item or service, and the authors' nudges bank on that.
+Thaler and Sunstein suggest that an area ripe for incentives is environmental policy, both at the individual and collective levels:
+Environmentalism at the Individual Level
+At the individual level, the authors propose to lessen excessive home energy use by redesigning thermostats to not only show temperature but the dollar cost of whatever temperature the user selects. (For example, the display might show a temperature, the kilowatt-hours that temperature requires, the per-kilowatt-hour cost, and the total cost.) This would make the costs of increased energy use more obvious to the user by presenting them in real time (unlike a price hike, which is only registered by the user when he receives his monthly energy bill).
+(Shortform note: This recalls our earlier discussion of the effectiveness of nudges given before or after a decision. A thermostat that displays the cost of heating a room before the user has chosen the temperature at which to set it is probably more effective than a high energy bill that arrives a month later. Since Nudge was published, there have been major advances in the smart appliances space that work toward this capability, and thermostats have gotten major upgrades. Google's Nest learning thermostat, for example, programs itself based on your heating and cooling patterns. It can also track your movements: Once you leave for the day, it will automatically reduce your HVAC's energy use, eliminating the need for a nudge because it makes the choice for you.)
+Environmentalism at the Collective Level
+At the collective level, Thaler and Sunstein advocate a "cap-and-trade" mechanism for reducing greenhouse gases.
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+34
+
+Summary: Nudge
+In a cap-and-trade system, the government sets a ceiling (a "cap") on a certain pollutant--say, carbon dioxide--and confers on industries and firms rights to pollute up to that amount. If a firm chooses to reduce its emissions below the cap, it can "trade" its excess cap space to other companies for cash. According to Thaler and Sunstein, a cap-and-trade system meets the principles of libertarian paternalism because it preserves choice while nudging firms--through economic incentives--to clean up their operations.
+(Shortform note: While a cap-and-trade system in operation might meet the definition of libertarian paternalism, its creation and implementation almost certainly don't. That is, there's no way to "nudge" Thaler and Sunstein's cap-and-trade model into existence--it has to be created by top-down government rulemaking (in other words, paternalism). Moreover, cap-and-trade, at least when instituted at the state level, has produced mixed results, leading many commentators to advocate for broader and more explicitly paternalistic interventions.)
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+35
+
+Summary: Nudge
+
+Part 3: Controversial and Miscellaneous Nudges
+Toward the end of Nudge, Thaler and Sunstein apply libertarian paternalism to some hot-button issues in American society, including tort reform and the institution of marriage. They also round out the book with a series of miscellaneous nudge ideas, two of which we'll review below.
+
+Reducing Health Care Prices
+An evergreen topic among health policy researchers is the excessive cost of health care in the United States. (Shortform note: Compared to other economically developed countries, the US is an outlier in terms of the expense of health care. For example, in 2019, the US spent 16.8% of GDP on health care while the UK spent 10.2%, Canada spent 10.8%, France spent 11.1%, and Germany spent 11.7%. The UK, Canada, France, and Germany all have robust social insurance programs that include publicly funded health care systems.)
+One of the causes of these high costs, claim Thaler and Sunstein, is malpractice insurance. The logic goes something like this: If doctors no longer had to purchase expensive liability insurance to protect themselves from being sued, they could offer their patients--in reality, their patients' insurance companies--lower prices.
+Thaler and Sunstein's solution is to allow patients to waive their right to sue in the case of malpractice-- an option currently disallowed under US jurisprudence--in exchange for lower prices. (Thaler and Sunstein even explore the possibility of making the right-to-sue waiver the default option on health insurance plans. In this scenario, beneficiaries would have to pay a premium to be able to sue their providers for malpractice.) As more and more people waive their right to sue, so the theory goes, health care prices will decline across the board.
+(Shortform note: The right to waive one's right to sue satisfies the libertarian half of libertarian paternalism, but the question is: Would it actually reduce health care costs? Thaler and Sunstein acknowledge that the research they cite on the cost impact of liability insurance is "controversial and may be exaggerated"; in fact, most researchers have determined that malpractice insurance costs comprise a tiny portion of total health care spending. One study published in Health Affairs, for example, found that the medical liability system only accounts for 2.4% of total health care spending.)
+
+Renaming Marriage
+Thaler and Sunstein wade into the then-controversial subject of same-sex marriage. They argue that all sides in the debate of whether to allow it or not could be satisfied if the legal licensing of marriage was separated from the religious aspect of it. They thus propose that the government stop issuing "marriage" licenses and instead issue licenses for civil unions, which would deny no one based on gender or sexuality, thereby leaving marriage to be regulated by religious organizations instead of the government. They contend that this would protect religious freedom while maximizing choice.
+Their proposal would ensure that anyone entering into a civil union would have the same legal protections and benefits as anyone in a marriage--including tax, inheritance, and property benefits as well as the ability to make medical decisions. Private and religious organizations could continue to adhere to the marriage norms and rites defined by their beliefs.
+The authors then expand their discussion to outline some ways in which people might be encouraged to
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+36
+
+Summary: Nudge
+enter into marriages--or civil unions--with more awareness of the risks and better prepared to manage a possible dissolution of the marriage. They suggest defaults and transparency programs that would encourage people to be less starry-eyed and more realistic about the possibility of future divorce. Their suggestions include:
+Instituting default laws that provide financial assistance for the primary caregiver of any children involved in the marriage, or that default to joint custody if neither parent was negligent (eliminating some common arguing points in many divorces). Solidify rules deciding child support and alimony so that they're based on hard inputs like the age of both spouses, their earning power, and the length of the marriage, so that the number of options available to a judge to decide is limited. Publicize these rules so that couples are educated about such matters before entering the marriage.
+Why Do Thaler and Sunstein Want to Rename Marriage?
+The socio-historical background to Thaler and Sunstein's proposal is the debate over same-sex marriage. Before the landmark 2015 Supreme Court decision in Obergefell v. Hodges, which legalized same-sex marriage throughout the US, there existed a patchwork of laws: Some states recognized same-sex marriage, others recognized "civil unions" but not marriages, still others recognized neither.
+For many advocates of marriage equality, civil unions were inherently discriminatory and unequal: They created a "second tier" of domestic partnership that marked same-sex partnerships as somehow different from opposite-sex partnerships. Thaler and Sunstein's solution is, at least as far as government is concerned, to separate the "tiers" entirely. In terms of a couple's legal status as domestic partners, the only option would be a civil union; "marriage" ceases to exist in the eyes of the law.
+Of course, Thaler and Sunstein don't consider that same-sex couples might want to be "married" in the eyes of the law for the same traditional reasons opposite-sex couples might want to be. Doing away with state-sanctioned marriage creates equality in civil unions, but it neglects the historical and cultural associations marriage has for same- and opposite-sex couples alike.
+Further, it's not clear that their proposed solution of converting all marriages to civil unions is a nudge. From one point of view, it could be considered a change of the default: Rather than legal marriage, civil unions become the default domestic partnership. But the more persuasive view is that it's simply a reform to improve people's lives rather than a nudge to improve their decisionmaking.
+Their suggestions toward the end of this section, regarding how to make the risks of marriage more clear to those entering it, are more clearly nudges, as they are designed to empower people to make wiser decisions. But it might be said that their thoughts on solving the same-sex marriage debate were simply ideas they wanted to publicize, and that they used their book as a platform to do so even though the ideas were somewhat unrelated to nudges.
+
+Miscellaneous Nudges
+As noted in the introduction to this guide, Thaler and Sunstein offer a smorgasbord of nudges throughout the book. Many of these nudges have proved prescient--whereas, in 2005, they were either pipe dreams or
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+37
+
+Summary: Nudge
+in early development, in 2021 they're becoming more and more the norm. Examples include:
+Civility Warnings: In the age of social media and the "hot take," people are all too susceptible to firing off an angry tweet or text in a fit of passion. A "civility warning" would recognize the sentiment of the message you aim to send and prompt you with a question: "Warning: This appears to be an uncivil message. Do you really wish to send it?" An even stronger iteration of this nudge would force users to wait a day before sending the uncivil message. (Shortform note: Although this precise nudge hasn't come to fruition, most email clients will prompt you if, for example, you mention an attachment in the body of an email but don't attach anything to the email. And in 2015, Gmail debuted its "undo send" feature, which gives users up to 30 seconds to recall a just-sent email (if, say, it contained some ill-considered language).)
+Driver Feedback: At the time of Nudge's writing, Nissan was developing the ECO pedal, an accelerator pedal that pushed back on the driver's foot to reduce fuel consumption and increase fuel efficiency. (Shortform note: Since then, Nissan has developed the "E-Pedal," which allows drivers to accelerate and slow down-- and even come to a full stop--using just one pedal. Many hybrid cars feature an "ECO" operating mode, which reduces throttle response and enables the car to run more fuel-efficiently (though, typically, with less accelerating power). Some cars also feature "lane assist" features, which nudge--literally--drifting drivers back into their lane by providing resistance in the steering wheel.)
+Because Thaler and Sunstein define a nudge as anything that "significantly alters the behavior" of people making decisions, almost anything at all might feasibly be classified as a nudge. Thaler and Sunstein themselves acknowledge this by saying that when it comes to choice design, everything matters.
+However, critics object that when a term encompasses all manner of phenomena--for example, everything from the placement of a store's entrance and the color of its shopping bags to the background color of a web page--it loses its descriptive force. This is why critics of Nudge have called many of its proposals common sense or calls for transparency rather than nudges.
+Exercise: Where Do You Stand?
+Think through Thaler and Sunstein's provocative nudges.
+Do you think patients should be allowed to waive their rights to sue for medical malpractice? Why or why not? Would you waive your rights to sue for a discount?
+
+Reflect on Thaler and Sunstein's marriage reform. Should states get out of the marriage business altogether? If you're currently married, would you be comfortable with a civil union rather than marriage? Why or why not?
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+38
+
+Summary: Nudge
+Exercise: Create Your Own Nudge
+Have some fun creating your own nudge. Which of the nudges you've read about so far is your favorite? Why?
+Using your favorite nudge as a model, propose a nudge in a similar life area and what you hope it will accomplish.
+Now try to create a nudge from scratch. In what facet of your life could you use some improvement? And is there a nudge that can help you improve?
+
+Prepared for brandondavidcordoba@gmail.com for restricted individual use
+
+39
+
+
